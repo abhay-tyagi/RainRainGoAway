@@ -9,8 +9,8 @@ import cv2
 
 
 def improveVideo(file):
-	os.environ['CUDA_VISIBLE_DEVICES'] = "0"  # select GPU device
-	tf.reset_default_graph()
+	# os.environ['CUDA_VISIBLE_DEVICES'] = "0"  # select GPU device
+	# tf.reset_default_graph()
 	i = 0
 
 	video_name = 'RainRemove/media/output_' + file.split('.')[0] + '.avi'
