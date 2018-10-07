@@ -16,3 +16,10 @@ $ bash build.sh
 
 For Python 3:
 $ bash build3.sh
+
+Contributors:
+1) Abhay Swaroop (github.com/abhay-tyagi)
+2) Saurabh Bodhe (github.com/Astatine404)
+3) Samarjit Karmakar (github.com/samarjit98)
+
+Made with </> and Caffeine @NITW as a part of INK Makers Makeathon 2018!!
